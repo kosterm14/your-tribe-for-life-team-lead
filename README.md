@@ -3,7 +3,7 @@ Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uit
 De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
 # Team Lead
-
+Ik begeleid met mijn groepje op woensdagen squad D van de eerstejaars. In de wiki is een rapportage van elke dag te lezen.
 
 ## Licentie
 
